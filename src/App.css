@@ -1,0 +1,178 @@
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+}
+.p-0{
+  padding:0 !important;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.bg-purple {
+  background-color: #4f61ff !important;
+}
+
+
+.lato-thin {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lato-light {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lato-black {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+.text-gray {
+  color: #9aa0ab !important;
+}
+.bg-gray {
+  background-color: #eff2f8 !important;
+}
+.bg-gray-2 {
+  background-color: #CCCCCC !important;
+}
+.font-size-sm {
+  font-size: 10px;
+}
+.font-size-sd {
+  font-size: 12px;
+}
+.font-size-md {
+  font-size: 14px;
+}
+.font-size-lg {
+  font-size: 18px;
+}
+.MuiAvatar-root {
+  background: #ff9900 !important;
+}
+.MuiPaper-root {
+  --Paper-shadow: none !important;
+  box-shadow: 5px 5px 8px 0px #0000000d;
+  padding-top: 0;
+}
+.css-5c1adp-MuiContainer-root {
+  max-width: inherit !important;
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+  margin-top: 90px;
+}
+.MuiButtonBase-root {
+  padding: 0 !important;
+}
+.fa-square-plus {
+  height: 50px;
+  padding-top: 20px;
+}
+.fa-square-plus path {
+  fill: #4f61ff !important;
+}
+.MuiCardHeader-root {
+  padding: 0 !important;
+}
+
+.title-card {
+  font-size: 14px;
+  font-weight: 700;
+  color: #4f61ff;
+  text-transform: none;
+  padding-bottom: 20px;
+}
+.MuiToolbar-root {
+  width: 100%;
+  justify-content: space-between;
+}
+.MuiMenu-paper {
+  width: 120px;
+}
+.MuiMenuItem-root {
+  padding: 7px !important;
+}
+.MuiFormLabel-root {
+  font-size: 17px !important;
+  margin-top: 11px;
+}
+.MuiFormControl-root {
+  padding-top: 10px !important;
+}
+.MuiCardMedia-root {
+  height: 141px;
+  width: 100%;
+  object-fit: cover;
+}
+.MuiButtonBase-root {
+  padding: 3px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+.MuiDialogActions-root {
+  padding-bottom: 20px !important;
+}
+.text-ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.dashboard-card {
+  background-color: #0000009c;
+  transition: background-color 0.5s ease;
+  z-index: 150;
+}
+.text-sort {
+  text-decoration: underline !important;
+  text-transform: none !important;
+  font-size: 14px !important;
+}
+.div-sort .MuiMenu-paper {
+  width: 140px !important;
+}
+
+.signup-card {
+  margin-top: 120px;
+}
+.sign-button {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+.eye-icon {
+  right:20px;
+  top: 45px;
+}
+.file-input-label{
+  border:2px dashed #eff2f8;
+  border-radius: 5px;
+}
+.browse-btn{
+  text-transform: inherit !important;
+  border: 1px solid #9AA0AB !important;
+  border-radius: 40px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+.create-btn{
+  text-transform: inherit !important;
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+  box-shadow: none !important;
+}
